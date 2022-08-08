@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+   int a; 
+   int b;
+   cin >> a; cin >> b;
+   cout << "Cmm, a nhan b bang may?" << a*b
+}
